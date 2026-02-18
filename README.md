@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | AI Enthusiast | MERN | Next.js | FastAPI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=prakharsharma13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -37,11 +37,6 @@
 ## 🛠️ DevOps & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
-</p>
-
-## 🤖 AI / Other
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ---
