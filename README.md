@@ -1,112 +1,166 @@
-<h1 align="center">Prakhar Sharma</h1>
+
+# Hi 👋 I'm Prakhar Sharma
 
 <p align="center">
-Full Stack Engineer • AI Builder • System Design Learner
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;AI+Engineer;Backend+Developer;System+Design+Learner;Always+Building+Something+New" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=prakharsharma13&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/prakharsharma13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/prakhar-sharmaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prakharsharma13&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I build scalable web applications, backend systems, and AI-powered tools.  
-My focus is on writing clean architecture, efficient APIs, and production-ready systems.
-
-- Full Stack Engineer specializing in modern web stacks  
-- Building real-time apps, AI integrations, and developer tools  
-- Strong focus on performance, scalability, and system design  
-- Currently exploring Kubernetes and distributed systems  
-
----
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,fastapi,mongodb,postgresql,docker,git,linux&perline=6" />
-
-</p>
-
-**Core Expertise**
-
-- Frontend: React, Next.js, Tailwind, TypeScript  
-- Backend: Node.js, Express, FastAPI  
-- Databases: MongoDB, PostgreSQL  
-- DevOps: Docker, Git, Linux  
-- Other: REST APIs, WebSockets, Authentication Systems  
+```yaml
+Name: Prakhar Sharma
+Role: Full Stack Engineer
+Focus:
+  - AI Applications
+  - Backend Systems
+  - Scalable APIs
+  - System Design
+Currently Learning:
+  - Kubernetes
+  - Distributed Systems
+  - Cloud Architecture
+```
 
 ---
 
-## GitHub Insights
+# 🚀 Mission
+
+Building production-ready software with clean architecture, scalable backend systems and AI-powered applications.
+
+---
+
+# 📈 Developer Journey
+
+```mermaid
+flowchart LR
+A[HTML/CSS] --> B[JavaScript]
+B --> C[React]
+C --> D[Node.js]
+D --> E[MongoDB]
+E --> F[MERN Stack]
+F --> G[Next.js]
+G --> H[Docker]
+H --> I[AI Engineering]
+I --> J[Kubernetes]
+J --> K[System Design]
+K --> L[Distributed Systems]
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+</p>
+
+### DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux"/>
+</p>
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+Node.js             ████████████████ 100%
+React               ████████████████ 100%
+Docker              ██████████████░░ 90%
+AI Engineering      █████████████░░░ 85%
+Kubernetes          ██████████░░░░░░ 65%
+Distributed Systems ██████░░░░░░░░░░ 40%
+```
+
+---
+
+# 🛠 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| JobVault | Full Stack Job Tracker | Next.js, TypeScript, MongoDB |
+| AI Chat | Real-time AI Chat | React, FastAPI |
+| Pipeline Builder | Visual Workflow Builder | React, Docker |
+| File Manager | Enterprise File Manager | Node.js, MongoDB |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharsharma13&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=prakharsharma13&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharsharma13&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-## Selected Projects
+# 🏆 Achievements
 
-**AI Chat Application**  
-Real-time chat system with streaming responses and audio support  
-Stack: React, WebSocket, FastAPI  
-
-**File Manager System**  
-Full backend system with file upload, folder management, and storage tracking  
-Stack: Node.js, Express, MongoDB, Filesystem  
-
-**Pipeline Builder Platform**  
-Interactive pipeline creation system with containerized execution  
-Stack: React, FastAPI, Docker, PostgreSQL  
-
-**Full Stack Blog Platform**  
-Authentication-based content platform with modern architecture  
-Stack: Next.js, MongoDB  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prakharsharma13&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-## What I Focus On
+# 🎯 2026 Goals
 
-- Building production-ready full stack systems  
-- Backend architecture and API design  
-- AI integration into real applications  
-- Performance optimization and scalability  
+- ✅ Master Kubernetes
+- ✅ Learn Distributed Systems
+- ✅ Build AI SaaS Products
+- ✅ Contribute to Open Source
+- ✅ Crack a top Product Company
 
 ---
 
-## Connect With Me
+# 🌐 Connect
 
-<p align="left">
-<a href="https://github.com/prakharsharma13">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/prakhar-sharmaa">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="center">
+<a href="https://github.com/prakharsharma13">GitHub</a> •
+<a href="https://linkedin.com/in/prakhar-sharmaa">LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-Always building. Always learning.
+<i>"Build. Learn. Ship. Repeat."</i>
 </p>
+
+## 🐍 Contribution Snake
+
+> Enable this by creating a GitHub Action using Platane/snk. After setup, uncomment the image below.
+
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/prakharsharma13/prakharsharma13/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+-->
