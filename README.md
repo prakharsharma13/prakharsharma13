@@ -9,7 +9,7 @@ Building production software where **AI, backend systems, and cloud-native infra
 <a href="https://github.com/PrakharSharma">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/prakhar-sharmaa/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=PrakharSharma&style=flat&color=555555" alt="Profile views"/>
@@ -284,12 +284,12 @@ My current direction is **AI Engineering**, with the systems knowledge needed to
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrakharSharma&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharSharma&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PrakharSharma&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=prakharsharma13&hide_border=true" />
 
 </div>
 
