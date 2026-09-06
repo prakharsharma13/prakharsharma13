@@ -6,13 +6,13 @@
 
 Building production software where **AI, backend systems, and cloud-native infrastructure** meet.
 
-<a href="https://github.com/PrakharSharma">
+<a href="https://github.com/prakharsharma13">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/prakhar-sharmaa/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=PrakharSharma&style=flat&color=555555" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=prakharsharma13&style=flat&color=555555" alt="Profile views"/>
 
 </div>
 
