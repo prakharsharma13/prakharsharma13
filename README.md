@@ -1,324 +1,263 @@
-<div align="center">
+ <div align="center">
 
-# Prakhar Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:172554,100:6D28D9&height=240&section=header&text=Prakhar%20Sharma&fontSize=58&fontColor=F8FAFC&fontAlignY=36&desc=FULL%20STACK%20%E2%80%A2%20AI%20ENGINEERING%20%E2%80%A2%20PLATFORM%20SYSTEMS&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="Prakhar Sharma"/>
 
-### Full Stack Engineer · AI Builder · Backend Systems
-
-Building production software where **AI, backend systems, and cloud-native infrastructure** meet.
+<br/>
 
 <a href="https://github.com/prakharsharma13">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/prakhar-sharmaa/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/prakhar-sharmaa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=prakharsharma13&style=flat&color=555555" alt="Profile views"/>
+<a href="mailto:prakharsharma752@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=750&lines=Engineering+full-stack+applications;Building+AI-powered+developer+tools;Working+across+APIs%2C+platforms+%26+infrastructure;Turning+complex+problems+into+reliable+software" alt="Animated engineering tagline"/>
+
+<br/>
+
+*I build software across the application, backend, and infrastructure layers — and I'm going deeper into AI engineering.*
 
 </div>
 
 ---
 
-## The short version
+## `01` / About
 
-I like working on the part of software that becomes interesting **after the first demo works**.
+I'm a Full Stack Engineer at **Katonic AI**, working on production systems spanning AI platforms, backend services, deployment workflows, and cloud-native infrastructure.
 
-My path has moved from building full-stack applications to working deeper into the systems around them — multi-tenancy, Kubernetes workloads, usage-based billing, persistent workspaces, platform APIs, and AI-powered workflows.
+My approach is to understand the entire system, not just the feature I'm implementing. That means thinking about API boundaries, data flow, integrations, reliability, and how software behaves once it reaches production.
 
-Now I'm going deeper into **AI Engineering**: building systems where models, tools, workflows, and reliable software architecture come together.
+**What I'm focused on:**
 
-```text
-                     BUILD
-                       │
-                       ▼
-              FULL STACK SYSTEMS
-                       │
-                       ▼
-             PLATFORM ENGINEERING
-                       │
-                       ▼
-          CLOUD-NATIVE INFRASTRUCTURE
-                       │
-                       ▼
-                AI ENGINEERING
-                       │
-                       ▼
-              AGENTIC SYSTEMS
-```
+- **Full Stack Engineering** — scalable web applications, APIs, authentication, and product development.
+- **AI Engineering** — LLM applications, MCP servers, AI agents, and tool-integrated workflows.
+- **Platform Engineering** — multi-tenant systems, deployment platforms, storage, and Kubernetes workloads.
 
----
+## `02` / Selected projects
 
-## What I build
+<div align="center">
+
+<a href="https://github.com/prakharsharma13/CodeVitals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharsharma13&repo=CodeVitals&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="CodeVitals project card"/>
+</a>
+<a href="https://github.com/prakharsharma13">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharsharma13&repo=Nexus-AI&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="Nexus AI project card"/>
+</a>
+
+</div>
+
+### CodeVitals
+
+<sub>DEVELOPER TOOLING · MCP · STATIC ANALYSIS</sub>
+
+Repository health intelligence for AI-assisted development.
+
+A TypeScript-based MCP server that analyzes local repositories and exposes actionable project-health insights to AI-compatible clients.
+
+- Deterministic, offline repository analysis.
+- Insights across security, dependencies, architecture, code quality, and developer tooling.
+- Health scoring and recommendations.
+- MCP tools for integrating repository analysis into AI workflows.
+
+`TypeScript` `Node.js` `MCP` `Static Analysis`
+
+[Explore CodeVitals →](https://github.com/prakharsharma13/codevitals)
+
+### Nexus AI
+
+<sub>FULL STACK · GENERATIVE AI · PAYMENTS</sub>
+
+An AI chat application built around persistent conversations and payment workflows.
+
+- User authentication and persistent chat history.
+- OpenAI-powered conversations.
+- Stripe payments, credits, and webhook handling.
+- Modular frontend and backend architecture.
+
+`React` `Vite` `Express.js` `MongoDB` `OpenAI API` `Stripe`
+
+[Explore my repositories →](https://github.com/prakharsharma13)
+
+## `03` / Production engineering
+
+<sub>SELECTED WORK · KATONIC AI</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI Engineering
+### Multi-tenant platforms
 
-- AI Agents
-- MCP Servers
-- Tool-calling workflows
-- Generative AI applications
-- Conversational systems
-- Workflow automation
+Worked on tenant-aware platform workflows and Kubernetes namespace isolation as part of multi-tenant SaaS architecture.
 
 </td>
 <td width="50%" valign="top">
 
-### Platform Engineering
+### Usage-based billing
 
-- Multi-tenant architecture
-- Usage-based billing
-- Deployment platforms
-- Tenant-aware workflows
-- Platform APIs
-- Developer tooling
+Worked on billing workflows, usage tracking, sub-business onboarding, and tiered pricing for a SaaS platform.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Backend Systems
+### AI deployment workflows
 
-- Node.js / Express
-- REST APIs
-- Event-driven architecture
-- MongoDB / PostgreSQL
-- Data & storage workflows
-- Service integration
+Built application deployment workflows for Streamlit, Gradio, and FastAPI using Kubernetes resources, services, autoscaling, and routing.
 
 </td>
 <td width="50%" valign="top">
 
-### Cloud-Native
+### Developer workspaces
 
-- Kubernetes
-- Docker
-- Stateful workloads
-- Persistent storage
-- Service routing
-- Application deployment
+Worked on Jupyter and VS Code workspaces using StatefulSets, persistent storage, Services, and Istio routing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### MCP integrations
+
+Developed and maintained tool integrations that connect AI agents with external services through structured MCP workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### File and dataset systems
+
+Built file-management capabilities using the MERN stack, NFS, and Kubernetes for AI-platform storage workflows.
 
 </td>
 </tr>
 </table>
 
----
-
-## Production work
-
-Rather than listing a job title, these are some of the engineering problems I've worked on in production.
-
-### Multi-Tenant Architecture
-
-Worked on the transition from single-tenant deployments toward a **tenant-aware platform architecture**, including tenant-aware workflows and Kubernetes namespace isolation.
-
-### Usage-Based Billing
-
-Designed and implemented a **usage-based billing engine** supporting the move from on-premise deployments toward a multi-tenant SaaS model, including usage tracking, sub-business onboarding, and tiered pricing.
-
-### AI Application Deployment
-
-Built Kubernetes-based deployment workflows for **Streamlit, Gradio, and FastAPI** applications using Deployments, Services, autoscaling, and routing.
-
-### Development Workspaces
-
-Worked on Jupyter and VS Code workspace workflows using **Kubernetes StatefulSets, persistent storage, Services, and Istio routing**.
-
-### MCP & Agentic Workflows
-
-Built MCP capabilities that allow AI agents to interact with external tools and services through structured **tool-calling workflows**.
-
-### File & Dataset Infrastructure
-
-Built a centralized file management system using **MERN, NFS, and Kubernetes** for scalable dataset storage and AI-platform workflows.
-
----
-
-## Selected work
-
-### CodeVitals
-
-**Repository health intelligence through MCP.**
-
-A TypeScript-based MCP server that analyzes local repositories and exposes project-health intelligence through AI-compatible tools.
-
-```text
-                         LOCAL REPOSITORY
-                                │
-              ┌─────────────────┼─────────────────┐
-              ▼                 ▼                 ▼
-          SECURITY        DEPENDENCIES       ARCHITECTURE
-              │                 │                 │
-              ├────────────── ANALYZERS ──────────┤
-              │                 │                 │
-              ▼                 ▼                 ▼
-         DEAD CODE          CODE QUALITY      GIT / DOCKER
-                                │
-                                ▼
-                         HEALTH SCORE 0–100
-                                │
-                                ▼
-                       RECOMMENDATIONS
-                                │
-                                ▼
-                           MCP TOOLS
-                                │
-                                ▼
-                           AI CLIENT
-```
-
-The analysis is **deterministic and offline** — no external APIs or LLM calls are required for the repository analysis itself.
-
-**Stack:** TypeScript · Node.js · MCP · Static Analysis
-
----
-
-### Nexus AI
-
-**A full-stack AI chat application built around persistent conversations and payments.**
-
-- Authentication and persistent chat history
-- OpenAI-powered conversations
-- Stripe payments and credits
-- Webhook-based payment handling
-- Modular client-server architecture
-
-**Stack:** React · Vite · Express.js · MongoDB · OpenAI API · Stripe
-
----
-
-## How I approach engineering
-
-I don't want to stop at making a feature work.
-
-I want to understand **where the problem belongs**, build at the right abstraction level, and improve the system after it is running.
-
-```text
-                  ┌──────────────┐
-                  │    PROBLEM   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   UNDERSTAND │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    DESIGN    │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │     BUILD    │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    INTEGRATE │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    OBSERVE   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    IMPROVE   │
-                  └──────┬───────┘
-                         │
-                         └──────────────→ repeat
-```
-
-The deeper I go into systems, the more I care about the boundaries between **application code, APIs, infrastructure, data, and AI workflows**.
-
----
-
-## Technology
+## `04` / Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,kubernetes,git,github,linux&perline=7" />
+**LANGUAGES & APPLICATIONS**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind&theme=dark" alt="Languages and application technologies"/>
+
+**DATA & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,kubernetes,linux,git,github&theme=dark" alt="Databases and infrastructure technologies"/>
+
+**AI & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,githubactions,vscode&theme=dark" alt="AI and developer tools"/>
 
 </div>
 
-**Languages** · JavaScript · TypeScript
+| Domain | Focus |
+|---|---|
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Languages | JavaScript, TypeScript |
+| Databases | MongoDB, PostgreSQL |
+| AI systems | LLM applications, MCP servers, AI agents, tool calling |
+| Infrastructure | Docker, Kubernetes, NFS, Istio |
+| Tooling | Git, GitHub, Jira, npm, Claude Code |
 
-**Frontend** · React.js · Next.js · Tailwind CSS
+## `05` / Current direction
 
-**Backend** · Node.js · Express.js · REST APIs
-
-**Databases** · MongoDB · PostgreSQL
-
-**AI** · AI Agents · MCP Servers · Generative AI · Conversational AI · Workflow Automation
-
-**Infrastructure** · Kubernetes · Docker · NFS · Event-Driven Architecture · Caching · Distributed Systems
-
-**Tools** · Git · GitHub · Jira · Claude Code · NPM
-
----
-
-## Currently going deeper
-
-My current direction is **AI Engineering**, with the systems knowledge needed to build it properly.
-
-```text
-                         AI ENGINEERING
-                              │
-             ┌────────────────┼────────────────┐
-             ▼                ▼                ▼
-          LLM APPS         AI AGENTS          MCP
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                       AI WORKFLOWS
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │ SYSTEM DESIGN    │
-                    │ DISTRIBUTED SYS. │
-                    │ CLOUD-NATIVE     │
-                    └──────────────────┘
-```
-
----
-
-## GitHub
+I'm expanding from full-stack and platform engineering into **AI engineering** — with an emphasis on building useful, reliable systems around models rather than just making API calls.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&hide_border=true" height="165"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+**LLM APPLICATIONS**
+
+<sub>Model integration · Context · RAG fundamentals</sub>
+
+</td>
+<td align="center" width="33%">
+
+**AGENT SYSTEMS**
+
+<sub>Tool calling · MCP · Workflow orchestration</sub>
+
+</td>
+<td align="center" width="33%">
+
+**PRODUCTION AI**
+
+<sub>APIs · Deployment · Observability</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+My aim is to combine full-stack execution, backend fundamentals, and infrastructure knowledge to build AI applications that are maintainable and production-ready.
+
+## `06` / GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=prakharsharma13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## `07` / Contribution graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prakharsharma13/prakharsharma13/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
+## `08` / Engineering mindset
+
+```text
+Understand the problem.
+        ↓
+Design the right boundaries.
+        ↓
+Build a maintainable solution.
+        ↓
+Test the integrations.
+        ↓
+Observe production behavior.
+        ↓
+Improve the system.
+```
+
+I value clear abstractions, thoughtful implementation, and software that becomes easier to maintain as it grows.
+
+---
+
+<div align="center">
+
+### BUILD · SHIP · UNDERSTAND · IMPROVE
+
+*Full Stack Engineer | AI Engineering | Platform Systems*
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=prakharsharma13&hide_border=true" />
+<a href="mailto:prakharsharma752@gmail.com">Let's connect</a> ·
+<a href="https://www.linkedin.com/in/prakhar-sharmaa/">LinkedIn</a> ·
+<a href="https://github.com/prakharsharma13">GitHub</a>
 
-</div>
+<br/><br/>
 
----
-
-## A few principles
-
-```text
-GOOD SOFTWARE
-    ↓
-works
-    ↓
-is understandable
-    ↓
-is reliable
-    ↓
-scales with the problem
-    ↓
-becomes easier to improve
-```
-
-I enjoy building things, understanding why they break, and moving the solution to the layer where it makes the whole system better.
-
----
-
-<div align="center">
-
-### Build → Understand → Improve
-
-*Still learning. Still shipping.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:080D1A&height=120&section=footer" width="100%" alt="Dark violet footer"/>
 
 </div>
