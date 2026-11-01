@@ -38,105 +38,86 @@ My approach is to understand the entire system, not just the feature I'm impleme
 - **AI Engineering** — LLM applications, MCP servers, AI agents, and tool-integrated workflows.
 - **Platform Engineering** — multi-tenant systems, deployment platforms, storage, and Kubernetes workloads.
 
-## `02` / Selected projects
 
-<div align="center">
-
-<a href="https://github.com/prakharsharma13/CodeVitals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharsharma13&repo=CodeVitals&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="CodeVitals project card"/>
-</a>
-<a href="https://github.com/prakharsharma13">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharsharma13&repo=Nexus-AI&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="Nexus AI project card"/>
-</a>
-
-</div>
-
-### CodeVitals
-
-<sub>DEVELOPER TOOLING · MCP · STATIC ANALYSIS</sub>
-
-Repository health intelligence for AI-assisted development.
-
-A TypeScript-based MCP server that analyzes local repositories and exposes actionable project-health insights to AI-compatible clients.
-
-- Deterministic, offline repository analysis.
-- Insights across security, dependencies, architecture, code quality, and developer tooling.
-- Health scoring and recommendations.
-- MCP tools for integrating repository analysis into AI workflows.
-
-`TypeScript` `Node.js` `MCP` `Static Analysis`
-
-[Explore CodeVitals →](https://github.com/prakharsharma13/codevitals)
-
-### Nexus AI
-
-<sub>FULL STACK · GENERATIVE AI · PAYMENTS</sub>
-
-An AI chat application built around persistent conversations and payment workflows.
-
-- User authentication and persistent chat history.
-- OpenAI-powered conversations.
-- Stripe payments, credits, and webhook handling.
-- Modular frontend and backend architecture.
-
-`React` `Vite` `Express.js` `MongoDB` `OpenAI API` `Stripe`
-
-[Explore my repositories →](https://github.com/prakharsharma13)
-
-## `03` / Production engineering
-
-<sub>SELECTED WORK · KATONIC AI</sub>
+## 02 / Selected Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Multi-tenant platforms
-
-Worked on tenant-aware platform workflows and Kubernetes namespace isolation as part of multi-tenant SaaS architecture.
-
-</td>
-<td width="50%" valign="top">
-
-### Usage-based billing
-
-Worked on billing workflows, usage tracking, sub-business onboarding, and tiered pricing for a SaaS platform.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI deployment workflows
-
-Built application deployment workflows for Streamlit, Gradio, and FastAPI using Kubernetes resources, services, autoscaling, and routing.
-
-</td>
-<td width="50%" valign="top">
-
-### Developer workspaces
-
-Worked on Jupyter and VS Code workspaces using StatefulSets, persistent storage, Services, and Istio routing.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### MCP integrations
-
-Developed and maintained tool integrations that connect AI agents with external services through structured MCP workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### File and dataset systems
-
-Built file-management capabilities using the MERN stack, NFS, and Kubernetes for AI-platform storage workflows.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CodeVitals</h3>
+      <p>
+        Repository health intelligence for AI-assisted development.
+        An MCP server that analyzes codebases and provides actionable
+        insights into code quality, dependencies, security, and architecture.
+      </p>
+      <p>
+        <code>TypeScript</code> <code>Node.js</code>
+        <code>MCP</code> <code>Static Analysis</code>
+      </p>
+      <a href="https://github.com/prakharsharma13/codevitals">
+        View Repository →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MERN AI GPT</h3>
+      <p>
+        An AI-powered application built with the MERN stack.
+        Explore the implementation to see how the application combines
+        full-stack development with AI capabilities.
+      </p>
+      <p>
+        <code>MongoDB</code> <code>Express</code>
+        <code>React</code> <code>Node.js</code>
+      </p>
+      <a href="https://github.com/prakharsharma13/MERN-AI-GPT">
+        View Repository →
+      </a>
+    </td>
+  </tr>
 </table>
+
+
+## 03 / Technologies & Tools
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>React, Next.js, Redux Toolkit, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>Node.js, Express.js, FastAPI, REST APIs</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>JavaScript, TypeScript, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Data & Storage</strong></td>
+      <td>MongoDB, PostgreSQL, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>AI Engineering</strong></td>
+      <td>LLM applications, RAG, MCP servers, AI agents, tool calling</td>
+    </tr>
+    <tr>
+      <td><strong>Infrastructure</strong></td>
+      <td>Docker, Kubernetes, NFS, Istio</td>
+    </tr>
+    <tr>
+      <td><strong>Developer Workflow</strong></td>
+      <td>Git, GitHub, Jira, npm, Claude Code</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## `04` / Technology
 
@@ -202,29 +183,29 @@ I'm expanding from full-stack and platform engineering into **AI engineering** �
 
 My aim is to combine full-stack execution, backend fundamentals, and infrastructure knowledge to build AI applications that are maintainable and production-ready.
 
-## `06` / GitHub activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prakharsharma13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakharsharma13&theme=tokyonight" height="165" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsharma13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=prakharsharma13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=prakharsharma13&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
 
 </div>
-
-## `07` / Contribution graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prakharsharma13/prakharsharma13/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakharsharma13&theme=tokyonight" height="180" alt="Languages across repositories"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakharsharma13&theme=tokyonight" height="180" alt="Languages by commit activity"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakharsharma13&theme=tokyonight&utcOffset=5.5" height="180" alt="Productive time by UTC+5:30"/>
 
 </div>
 
-## `08` / Engineering mindset
+---
+
+## `06` / Engineering mindset
 
 ```text
 Understand the problem.
